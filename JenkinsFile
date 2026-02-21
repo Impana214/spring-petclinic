@@ -31,7 +31,7 @@ pipeline {
     post {
     success {
         mail (
-            to: 'akshatha.1si20et003@gmail.com',
+            to: 'nethraneth1998@gmail.com',
             cc: '',
             subject: "SUCCESS: ${APP_NAME}",
             body: """
